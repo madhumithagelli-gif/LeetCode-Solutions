@@ -1,2 +1,1 @@
-# LeetCode-Solutions-
-C++ solutions for LeetCode problems covering Arrays, Strings, Linked Lists, Stacks, Queues, Binary Search and more. 
+C++ solutions for LeetCode problems with explanations and optimized approaches. 
